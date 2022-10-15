@@ -1,0 +1,8 @@
+Wifi dimatikan
+ke google search cari google
+klik mouse kanan
+klik tulisan inspect
+klik tulisan console
+ketik yang dibawah ini↓:
+Runner.prototype.gameOver=function(){}
+Runner.instance.setSpeed(1500)
