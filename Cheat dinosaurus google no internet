@@ -5,4 +5,4 @@ klik tulisan inspect
 klik tulisan console
 ketik yang dibawah ini↓:
 Runner.prototype.gameOver=function(){}
-Runner.instance.setSpeed(1500)
+Runner.instance_.setSpeed(1500)
